@@ -14,7 +14,7 @@ int main(){
         rev=rev*10 + last;
         n=n/10;
     }
-    cout<<rev;
+    cout<<"The recerse is"<<rev;
    
 }
 
